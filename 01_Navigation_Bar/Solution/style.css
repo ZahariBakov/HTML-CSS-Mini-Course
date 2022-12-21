@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    background: #234465;
+    padding: 10px;
+}
+
+nav li {
+    display: inline-block;
+    text-align: center;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
