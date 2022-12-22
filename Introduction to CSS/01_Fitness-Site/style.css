@@ -59,6 +59,7 @@ main section:nth-child(1) button {
 main section:nth-child(1) button:hover {
     background: white;
     color: #F9690E;
+    cursor: pointer;
 }
 
 main section:nth-child(2) article {
